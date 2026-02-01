@@ -1,0 +1,7 @@
+name = "cny-luck-prediction"
+main = "src/worker.js"
+compatibility_date = "2024-11-12"
+
+[assets]
+directory = "./dist"
+binding = "ASSETS"
